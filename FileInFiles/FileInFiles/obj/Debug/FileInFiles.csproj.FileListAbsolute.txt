@@ -1,0 +1,10 @@
+G:\GitHub\SearchInFile\FileInFiles\FileInFiles\obj\Debug\FileInFiles.csprojAssemblyReference.cache
+G:\GitHub\SearchInFile\FileInFiles\FileInFiles\obj\Debug\FileInFiles.Main.resources
+G:\GitHub\SearchInFile\FileInFiles\FileInFiles\obj\Debug\FileInFiles.Properties.Resources.resources
+G:\GitHub\SearchInFile\FileInFiles\FileInFiles\obj\Debug\FileInFiles.csproj.GenerateResource.cache
+G:\GitHub\SearchInFile\FileInFiles\FileInFiles\obj\Debug\FileInFiles.csproj.CoreCompileInputs.cache
+G:\GitHub\SearchInFile\FileInFiles\FileInFiles\bin\Debug\FileInFiles.exe.config
+G:\GitHub\SearchInFile\FileInFiles\FileInFiles\bin\Debug\FileInFiles.exe
+G:\GitHub\SearchInFile\FileInFiles\FileInFiles\bin\Debug\FileInFiles.pdb
+G:\GitHub\SearchInFile\FileInFiles\FileInFiles\obj\Debug\FileInFiles.exe
+G:\GitHub\SearchInFile\FileInFiles\FileInFiles\obj\Debug\FileInFiles.pdb
